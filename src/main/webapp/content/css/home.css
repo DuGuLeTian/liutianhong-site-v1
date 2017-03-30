@@ -1,0 +1,20 @@
+/*home.css*/
+
+.home-content {
+    background-image: url('/content/images/bg.png');
+    min-height: 1000px;
+}
+
+.home-footer {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 150px;
+    height: 150px;
+    background-color: #0a0a0a;
+}
+
+.home-footer div {
+    color: #fff;
+    text-align: center;
+}
+
